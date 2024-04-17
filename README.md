@@ -2,7 +2,7 @@
 <ul>
   <li>I'm Andreea ✨</li>
   <li>I'm 20 years old</li>
-  <li>Currently studying Computer Science in University 🎓</li>
+  <li>I'm a 2nd year student in Computer Science 🎓</li>
   <li>I’m currently working on small personal projects for learning purposes 🔭</li>
   <li>I’m currently learning how to program in general 🌱</li>
   <li>Pronouns: she/her 😄</li>
