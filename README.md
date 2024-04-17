@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Andreea ✨
-Currently studying Computer Science in University 🎓
+Currently studying Computer Science in University 🎓 <br>
 I’m currently working on small personal projects to learn 🔭
 I’m currently learning how to program in general 🌱
 Pronouns: she/her 😄
