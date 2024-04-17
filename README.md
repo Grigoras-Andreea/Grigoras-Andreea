@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+I'm Andreea ✨
+Currently studying Computer Science in University 🎓
+I’m currently working on small personal projects to learn 🔭
+I’m currently learning how to program in general 🌱
+Pronouns: she/her 😄
+How to reach me: andreeasimona180@gmail.com 📫
+
+For the moment, I'm not looking to collaborate on anything.
 
 <!--
 **Grigoras-Andreea/Grigoras-Andreea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
